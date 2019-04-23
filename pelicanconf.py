@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Rui Zhao'
-SITENAME = "Rui Zhao's page"
-SITEURL = ''
+SITENAME = "Rui Zhao's research"
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -22,16 +22,24 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 ## Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
+LINKS = (
+        ('My blog (mainly Chinese)', 'https://renyuneyun.gitlab.io'),
+        ('Personal projects', 'https://renyuneyun.github.io/'),
+        ('CISA', 'http://web.inf.ed.ac.uk/cisa'),
+        )
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
 #
 ## Social widget
+SOCIAL = (
+        ('github', 'https://github.com/renyuneyun/'),
+        ('linkedin', 'https://www.linkedin.com/in/zhaoruigh/'),
+        )
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

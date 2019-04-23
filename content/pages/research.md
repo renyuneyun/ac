@@ -12,4 +12,4 @@ The two main objectives are:
 1. Model data governance rules (aka. Terms and Conditions, in the field of research data)
 2. Present a reasoning system over data-flow information (e.g. provenance)
 
-<img src="{filename}/images/pic.png" width="600" />
+<img src="{static}/images/pic.png" width="600" />
