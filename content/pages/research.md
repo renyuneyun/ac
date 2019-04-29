@@ -4,8 +4,10 @@ Date: 2018-08-01 00:00
 
 # Governance rules modeling
 
-Terms and Conditions widely exist, and are usually written in natural languages. However, people tend to ignore them because of the complexity or large volume. The situation is the same for scientific research, especially for research data.
-We seek to solve this problem by modeling these terms and conditions (aka. data governance rules) using a logic form understood by machines and humans.
+Terms and Conditions widely exist, and are usually written in natural languages. However, people tend to ignore them because of the complexity or large volume. The situation is the same for scientific research, especially for research data.  
+We seek to solve this problem by modeling these terms and conditions (aka. data governance rules) using a logic form understood by machines and humans.  
+The rules will propagate along with the data, and be checked accordingly.
+<!-- PELICAN_END_SUMMARY -->
 
 The two main objectives are:
 
