@@ -25,8 +25,8 @@ AUTHOR_FEED_RSS = None
 
 ## Blogroll
 LINKS = (
-        ('My blog (mainly Chinese)', 'https://renyuneyun.gitlab.io'),
-        ('Personal projects', 'https://renyuneyun.github.io/'),
+        ('My blog (mainly Chinese)', 'https://blog.ryey.icu'),
+        ('Personal projects', 'https://me.ryey.icu/'),
         ('CISA', 'http://web.inf.ed.ac.uk/cisa'),
         )
 #         ('Python.org', 'http://python.org/'),
