@@ -28,9 +28,9 @@ AUTHOR_FEED_RSS = None
 
 ## Blogroll
 LINKS = (
-        ('My blog (mainly Chinese)', 'https://blog.ryey.icu'),
-        ('Personal projects', 'https://me.ryey.icu/'),
         ('CISA', 'http://web.inf.ed.ac.uk/cisa'),
+        ('Blog (mainly Chinese)', 'https://blog.ryey.icu'),
+        ('Personal projects', 'https://me.ryey.icu/'),
         )
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
@@ -40,6 +40,8 @@ LINKS = (
 SOCIAL = (
         ('github', 'https://github.com/renyuneyun/'),
         ('linkedin', 'https://www.linkedin.com/in/zhaoruigh/'),
+        ('twitter', 'https://www.twitter.com/zhaoruigh/'),
+        ('mastodon', 'https://scholar.social/@ZhaoRui'),
         )
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
