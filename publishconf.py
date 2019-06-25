@@ -22,3 +22,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+PIWIK_URL = 'tracking.ryey.icu'
+PIWIK_SITE_ID = '4'
