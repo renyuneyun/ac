@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}
+
+<div class="research-desc">
+{% for page in pages %}
+    {% if "research" == page.slug %}
+        <aside id="featured" class="body">
+            <article>
+                <h1 class="entry-title"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></h1>
+                {{ page.summary }}
+                <a class="readmore" href="{{ SITEURL }}/{{ page.url }}">read more</a>
+            </article>
+        </aside><!-- /#featured -->
+    {% endif %}
+{% endfor %}
+</div>
+
+{% if articles %}
+    <section id="content" class="body">
+        <h1>Archive...</h1>
+        <hr />
+        <ol id="posts-list" class="hfeed">
+    {% for article in articles_page.object_list %}
+        <li><article class="hentry">
+            <header>
+                <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                       title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+            </header>
+
+            <div class="entry-content">
+            {% include 'article_infos.html' %}
+            {{ article.summary }}
+            <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
+            {% include 'comments.html' %}
+            </div><!-- /.entry-content -->
+        </article></li>
+    {% endfor %}
+    </ol><!-- /#posts-list -->
+    {% if articles_page.has_other_pages() %}
+        {% include 'pagination.html' %}
+    {% endif %}
+    </section><!-- /#content -->
+{% else %}
+<section id="content" class="body">
+<h2>Pages</h2>
+    {% for page in pages %}
+        <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+
+
+{% for page in pages %}
+    {% if "pages/research.html" == page.url %}
+        <p>{{ page.content }}</p>
+    {% endif %}
+{% endfor %}
+</section>
+{% endif %}
+
+{% endblock content %}
