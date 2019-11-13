@@ -6,4 +6,4 @@ Tags: poster
 
 This poster is for SICSA PhD Conference 2018, to participate in the poster competation session.
 
-[PDF]({static}/pdfs/poster.pdf)
+[Download]({static}/pdfs/poster.pdf)

@@ -6,4 +6,4 @@ Tags: poster
 
 This poster is for DemoFest 2018.
 
-[PDF]({static}/images/pic.png)
+[Download]({static}/images/pic.png)
