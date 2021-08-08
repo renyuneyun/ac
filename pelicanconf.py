@@ -13,7 +13,7 @@ PLUGINS = ['summary']
 
 THEME = './themes/notmyidea'
 
-STATIC_PATHS = ['images', 'pdfs']
+STATIC_PATHS = ['images', 'pdfs', 'docs']
 
 TIMEZONE = 'Europe/London'
 
