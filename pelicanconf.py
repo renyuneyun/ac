@@ -17,7 +17,9 @@ STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'Europe/London'
 
+LOCALE = 'en_US'
 DEFAULT_LANG = 'en'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -28,7 +30,7 @@ AUTHOR_FEED_RSS = None
 
 ## Blogroll
 LINKS = (
-        ('CISA', 'http://web.inf.ed.ac.uk/cisa'),
+        ('AIAI (formerly CISA)', 'http://web.inf.ed.ac.uk/aiai'),
         ('Blog (mainly Chinese)', 'https://blog.ryey.icu'),
         ('Personal projects', 'https://me.ryey.icu/'),
         )

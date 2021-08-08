@@ -1,7 +1,7 @@
 Title: About me
 Date: 2018-12-01 00:00
 
-I'm Rui Zhao, a PhD student in [CISA](http://web.inf.ed.ac.uk/cisa), supervised by Prof. Malcolm Atkinson and Dr. Jacques Fleuriot.
+I'm Rui Zhao, a PhD student in [AIAI](http://web.inf.ed.ac.uk/aiai) (former CISA), supervised by Prof. Malcolm Atkinson, Dr. Petros Papapanagiotou and Dr. Jacques Fleuriot.
 
 <figure style="float: right;">
 <img src="{static}/images/photo.jpg" width='128' height='128' />
@@ -12,5 +12,6 @@ My topic focuses on modelling data-use policy (data governance rules) to make th
 
 See [my research]({filename}research.md) page for a more detailed description.
 
-You can contact me using email R.Zhao-16 AT sms.ed.ac.uk
+You can contact me using email rui.zhao AT ed.ac.uk
 
+You may also find my presence through one of the links (SNS, etc) at the bottom of the page.
