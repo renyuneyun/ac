@@ -2,6 +2,8 @@ Title: My research
 slug: research
 Date: 2018-08-01 00:00
 
+> [My information and CV]({filename}about_me.md) may also interest you.
+
 # Governance rules modeling
 
 Terms and Conditions widely exist, and are usually written in natural languages. However, people tend to ignore them because of the complexity or large volume. The situation is the same for scientific research, especially for research data.  
@@ -15,3 +17,5 @@ The two main objectives are:
 2. Present a reasoning system over data-flow information (e.g. provenance)
 
 <img src="{static}/images/pic.png" width="600" />
+
+See the [doc archives](/category/docs) for more documents / papers describing my work.

@@ -10,7 +10,7 @@ I'm Rui Zhao, a PhD student in [AIAI](http://web.inf.ed.ac.uk/aiai) (former CISA
 
 My topic focuses on modelling data-use policy (data governance rules) to make them interpretable by machines while understandable by humans, and performing automated reasoning on data flow graphs to check compliance.
 
-See [my research]({filename}research.md) page for a more detailed description.
+See [my research]({filename}research.md) page for a more detailed description. See [here for my CV]({static}/pdfs/CV_public.pdf).
 
 You can contact me using email rui.zhao AT ed.ac.uk
 
