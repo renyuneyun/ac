@@ -16,3 +16,4 @@ See [my research]({filename}research.md) page for a more detailed description. S
 You can contact me using email rui.zhao AT ed.ac.uk
 
 You may also find my presence through one of the links (SNS, etc) at the bottom of the page.
+<!-- PELICAN_END_SUMMARY -->

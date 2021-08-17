@@ -4,7 +4,7 @@
 
 <div class="research-desc">
 {% for page in pages %}
-    {% if "research" == page.slug %}
+    {% if "about-me" == page.slug %}
         <aside id="featured" class="body">
             <article>
                 <h1 class="entry-title"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></h1>
@@ -50,7 +50,7 @@
 
 
 {% for page in pages %}
-    {% if "pages/research.html" == page.url %}
+    {% if "pages/about-me.html" == page.url %}
         <p>{{ page.content }}</p>
     {% endif %}
 {% endfor %}
