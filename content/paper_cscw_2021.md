@@ -1,13 +1,14 @@
 Title: Dr.Aid: supporting data-governance rule compliance for decentralized collaboration in an automated way
 Date: 2021-08-02
+Modified: 2021-08-20
 Slug: paper-cscw-2021
 Category: docs
 Tags: paper
 
-We have this paper accepted to CSCW 2021. It is a detailed introduction to the general concept, usage cases and real-life examples of my research to date, which is now bundled under the name *Dr.Aid* (short for *Data Rule Aid*).
+We have this paper accepted to *the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2021). It is a detailed introduction to the general concept, usage cases and real-life examples of my research to date, which is now bundled under the name *Dr.Aid* (short for *Data Rule Aid*).
 
-You can [download the accepted manuscript here]({static}/pdfs/CSCW_2021_manuscript_rui_zhao.pdf). 
-The final version is being prepared at this moment.
+You can [download the manuscript here]({static}/pdfs/CSCW_2021_rui_zhao.pdf). 
+This is the submitted final version, and should be consistent with the final published version.
 
 > **Authors**: Rui Zhao, Malcolm Atkinson, Petros Papapanagiotou, Federica Magnoni, Jacques Fleuriot
 
