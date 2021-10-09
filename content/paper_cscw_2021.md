@@ -7,8 +7,12 @@ Tags: paper
 
 We have this paper accepted to *the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2021). It is a detailed introduction to the general concept, usage cases and real-life examples of my research to date, which is now bundled under the name *Dr.Aid* (short for *Data Rule Aid*).
 
-You can [download the manuscript here]({static}/pdfs/CSCW_2021_rui_zhao.pdf). 
-This is the submitted final version, and should be consistent with the final published version.
+You can find it on:
+
+- [arXiv](https://arxiv.org/abs/2110.01056)
+- [here]({static}/pdfs/CSCW_2021_rui_zhao.pdf)
+
+They are either the final version, or consistent with the final version.
 
 > **Authors**: Rui Zhao, Malcolm Atkinson, Petros Papapanagiotou, Federica Magnoni, Jacques Fleuriot
 
