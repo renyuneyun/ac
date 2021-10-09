@@ -1,6 +1,6 @@
 Title: Dr.Aid: supporting data-governance rule compliance for decentralized collaboration in an automated way
 Date: 2021-08-02
-Modified: 2021-08-20
+Modified: 2021-10-09
 Slug: paper-cscw-2021
 Category: docs
 Tags: paper
