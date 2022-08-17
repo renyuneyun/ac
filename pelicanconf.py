@@ -30,9 +30,10 @@ AUTHOR_FEED_RSS = None
 
 ## Blogroll
 LINKS = (
-        ('AIAI (formerly CISA)', 'http://web.inf.ed.ac.uk/aiai'),
-        ('Blog (mainly Chinese)', 'https://blog.ryey.icu'),
+        ('My ORCID', 'https://orcid.org/0000-0003-2993-2023'),
+        ('EWADA', 'ewada.ox.ac.uk/'),
         ('Personal projects', 'https://me.ryey.icu/'),
+        ('Blog (mainly in Chinese)', 'https://blog.ryey.icu'),
         )
 #         ('Python.org', 'http://python.org/'),
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
