@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://homepages.inf.ed.ac.uk/s1623641'
+SITEURL = 'https://renyuneyun.github.io/portfolio-phd'
 RELATIVE_URLS = False
 
 #FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -24,4 +24,4 @@ DELETE_OUTPUT_DIRECTORY = True
 #GOOGLE_ANALYTICS = ""
 
 PIWIK_URL = 'tracking.ryey.icu'
-PIWIK_SITE_ID = '4'
+PIWIK_SITE_ID = '5'
